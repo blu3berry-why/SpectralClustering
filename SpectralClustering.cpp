@@ -22,8 +22,6 @@ struct vec4 {
 	vec4(float x0 = 0, float y0 = 0, float z0 = 0, float w0 = 0) { x = x0; y = y0; z = z0; w = w0; }
 };
 
-
-
 class Matrix {
 public:
 	int x;
